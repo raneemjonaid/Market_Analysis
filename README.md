@@ -20,11 +20,3 @@ products to answer three core business questions:
   and higher ratings
 - Top 5 brands hold the majority of market share
 
-## 📁 Project Structure
-├── Data/
-│   ├── raw_data/                  # Original Amazon dataset (.pkl)
-│   └── clean_data/                # Cleaned CSV output
-├── amazon_data_cleaning.ipynb     # Python cleaning notebook
-├── amazon_analysis.sql            # SQL business analysis
-├── Amazon_Analysis.pbix           # Power BI dashboard
-└── README.md
